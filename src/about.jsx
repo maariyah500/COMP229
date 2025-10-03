@@ -44,7 +44,7 @@ export default function About(){
         <h2 class="grid-item1">
         I enjoy <span id="highlight">sewing</span>, spending time with my <span id="highlight">family</span>, and playing with my <span id="highlight">cats</span> and <span id="highlight">daughter</span> in my spare time. 
         My interest in <span id="highlight">software enginnering</span> drives me to excel in my studies and pursue a career in this field.
-        Click <a href={Resume} target='_blank' id="linkAbout">Here</a> to see my Resume.
+        View my <a href={Resume} target='_blank' id="linkAbout">Resume</a>.
         </h2>
 
 

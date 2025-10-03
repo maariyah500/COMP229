@@ -1,9 +1,5 @@
 
 import React from 'react';
-import InstaLogo from '../src/instaLogo.png';
-import LinkedInLogo from '../src/linkedInLogo.png';
-import FaceBooklogo from '../src/faceLogo.png';
-
 
 export default function Contact(){
   return (
